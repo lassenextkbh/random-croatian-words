@@ -98,3 +98,203 @@ Mrziti: Hate
 Hladan: Cool
 Kuda: Where
 Avion: Plane
+Uti: Hear
+Isto: Clean
+Im: As
+Etiri: Four
+I I: To Go
+Vre A: Bag
+Na I: Find
+Le A: Lens
+Svjedodžba: Testimonial
+Džungla: Jungle
+Džamija: Mosque
+Narudžba: Order
+Tu I: Foreign
+Doga Ati: Happen
+Kra A: Theft
+Žed: Thirst
+Uzbu En: Excited
+Grijeh: Sin
+Signal: Signal
+Naglo: Suddenly
+Grk: Grecian
+Hvala: Thanks
+Hotel: Hotel
+Strahovati: Apprehend
+Hvatati: Catch
+Jezik: Language
+Junak: Hero
+Sjajan: Bright
+Krajnji: Ultimate
+Dijete: Child
+Ljiljan: Lily
+Bolje: Better
+Ljudi: People
+Seljak: Farmer
+Plja Ka: Robbery
+Njegov: His
+Njega: Him
+Smetnja: Nuisance
+Munja: Lightning
+Otac: Father
+Crta: Line
+Micati: To Move
+Cigla: Brick
+Cijev: Tube
+Ekati: Wait
+Udo: Wonder
+Ovjek: Man
+Ma: Sword
+No: Night
+Ve I: Larger
+Pe : Stove
+Vu I: Draw
+Džep: Pocket
+Džez: Jazz
+Džemper: Sweater
+Srdžba: Anger
+Pandža: Claw
+La A: Ship
+Mla I: Younger
+Vo A: Leader
+Avao: Devil
+Vi Enje: Vision
+Godišnje: Per Year
+Gluma: Acting
+Gluh: Deaf
+Grad: City
+Grof: Count
+Hrom: Lame
+Uho: Ear
+Hodnik: Hallway
+Hrana: Food
+Jedini: Only
+Jaje: Egg
+Tvoj: Your
+Koji: That
+Jesen: Autumn
+Ljuljati Se: Bob
+Ljubav: Love
+Ljepota: Beauty
+Prolje E: Spring
+Njezin: Its
+Njuška: Snout
+Manje: Less
+Imanja: Properties
+Ulaziti: Enter
+Razgovarati: Chat
+Živjeti: Live
+Kako Ste: How Are You
+Dobre: Good
+Momak: Boy, Boyfriend
+Ve: But
+Krasno: Neatly
+Izgledati: Look
+Sigurno: Certainly
+Drago Mi Je: Glad
+Student: Student
+Samo Malo: Just A Little
+Stol: Table
+Olovka: Pencil
+Vrijeme: Time
+Svjetiljka: Lamp
+Prvi: First
+Novi,: Nove New
+Medo: Teddy Bear
+Škrinja: Chest
+Budilica: Alarm Clock
+Polica: Shelf
+Jastuk: Pillow
+Pokriva : Blanket
+Plahta: Sheet
+Prostirka: Bedding Cover
+Ormar: Wardrobe
+Krevet: Bed
+Sok Od Naran E: Orange Juice
+Mlijeko: Milk
+Ajnik: Teapot
+Vrti: Kindergarten
+Šampon: Shampoo
+Perem Se: I Wash
+Želim: I Want
+Ljupko: Delightful, Graceful
+Stan: Apartment
+Kuhinja: Kitchen
+Blagovaonica: Dining Room
+Prostorija: Room
+Dnevna Soba: Living Room
+Spava A Soba: Bedroom
+Djecja Soba: Nursery
+Radna Soba: Work Room
+Kupaonica: Bathroom
+Stepenište: Staircase
+Stepenice: Stairs
+Ulaz: Entrance
+Podrum: Basement
+Tavan: Ceiling
+Pod: Floor
+Dvorište: Yard
+Vrt: Garden
+Tanjur: Dish, Plate
+Duboki Tanjur: Deep Dish
+Plitki Tanjur: Shallow Dish
+Zdjela: Bowl
+Lonac: Pot
+Vr: Jug
+Tanjuri: Saucer
+Aša: Glass
+Šalica: Cup
+Dimnjak: Chimney
+Potkrovlje: Attic W-Living Space
+Pipa: Tap
+Krov: Roof
+Salveta: Napkin
+Ogledalo: Mirror
+Pasta Za Zube: Toothpaste
+Etkica Za Zube: Toothbrush
+Umivaonik: Sink
+Puder: Powder
+Etka: Brush
+Ru Nik: Towel
+Wc: Toilet
+Toaletni Papir: Toilet Paper
+Pjena Za Kupanje: Body Wash
+Tuš: Shower
+Zavjesa Za Tuš: Shower Curtain
+Kada: Bathtub
+Košara Za Rublje: Laundry Basket
+Strana: Side
+Lijeva Strana: Left Side
+Desna Strana: Right Side
+Gore: Up
+Dolje: Down
+Posao: Work
+Nakon: After
+Bež: Beige
+Najstariji, A: Oldest
+Hladnjak: Fridge
+Štednjak: Stove
+Pe Nica: Oven
+Perelica Su: A Dishwasher
+Sudoper: Sink
+Kuhinjski Ormar: Kitchen Cabinet
+Ure Aji: Appliance
+Pribor Za Jelo: Cutlery
+Žlica: Spoon
+Vilica: Fork
+Žli Ica: Teaspoon
+Sol: Salt
+Še Er: Sugar
+Brašno: Flour
+Papar: Pepper
+Špageti: Spaghetti
+Riža: Rice
+Krumpir: Potato
+Sir: Cheese
+Ograda: Fence
+Ribež: Grater
+Plo A: Board
+Slatkiši: Candy
+K Erka: Daughter
+Sestra: Sister
