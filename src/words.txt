@@ -1,0 +1,100 @@
+Brat: Brother
+Kad: When
+Malo: Little
+Sad: Now
+Tata: Dad
+Kod: At
+Još: More
+Pod: Under
+Soba: Room
+Gotov: Over, Finished
+Piti: Drink
+Sila: Force
+Misliti: Think
+Visok: High
+Vika: Shouting
+Mek: Soft
+Bez: Without
+Prestati: Quit
+Mreža: Network
+Sedam: Seven
+Mrak: Darkness
+Trag: Track
+Mlad: Young
+Hladno: Cold
+Baka: Grandmother
+Dob: Age
+On: He
+Morati: Must
+Ondje: There
+Ovca: Sheep
+Pitati: Ask
+Vino: Wine
+Mir: Peace
+Pri Ati: Talk
+Siv: Gray
+Svet: Holy
+Esto: Often
+Est: Common
+Svezati: Bind
+Meso: Meat
+Muka: Torment
+Duh: Spirit
+Ku A: House
+Kruna: Crown
+Kruh: Bread
+Vrh: Top
+Prst: Finger
+Hrvat: Croat
+Mrk: Dark
+Zrno: Grain
+Mudar: Wise
+Muž: Husband
+Kružiti: Hover
+Kljun: Beak
+Klupa: Bench
+Crn: Black
+Krv: Blood
+Mrtav: Dead
+Crpsti: Draw
+Trn: Thorn
+Dobar: Good
+Initi: Do
+Imati: Have
+Autobus: Bus
+Miris: Smell
+Pri A: Story
+Slikar: Painter
+Pojas: Belt
+Potok: Stream
+Otok: Island
+Sunce: Sun
+Mjesec: Month
+Prvi: First
+Ravan: Even
+Vru Ina: Heat
+Papir: Paper
+Hrabar: Brave
+Sam: I
+Razred: Class
+Planina: Mountain
+Dubok: Deep
+Zamazon: Dirty
+U Enik: Student
+Po Etak: Start
+Sanjati: Dream
+Misao: Thought
+Oti I: Go Away
+Prevelik: Too Big
+Igrati: Play
+Rijeka: River
+Glava: Head
+Guranje: Push
+Odgovor: Reply
+Govor: Speech
+Sabor: Parliament
+Znanje: Knowledge
+Mrziti: Hate
+Hladan: Cool
+Kuda: Where
+Avion: Plane
