@@ -5,7 +5,7 @@ Sad: Now
 Tata: Dad
 Kod: At
 Još: More
-Pod: Under
+Ispod: Under
 Soba: Room
 Gotov: Over, Finished
 Piti: Drink
